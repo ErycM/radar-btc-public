@@ -1,2 +1,2 @@
-# radar-btc-public
-radar btc public
+npm install
+npm start
