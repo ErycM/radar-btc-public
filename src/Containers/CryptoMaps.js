@@ -237,7 +237,7 @@ class CryptoMaps extends React.Component {
 
 export default GoogleApiWrapper(
   (props) => ({
-    apiKey: 'AIzaSyDs3wf0oN2wKaSLu0uE751wtoUW702rcI8',
+    apiKey: '',
   }
 ))(CryptoMaps);
 
