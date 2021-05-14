@@ -444,7 +444,7 @@ class PlaceRegister extends React.Component {
     const { center, markers } = this.state;
     const mapViewProps = {
       googleMapURL:
-        "https://maps.googleapis.com/maps/api/js?key=AIzaSyDs3wf0oN2wKaSLu0uE751wtoUW702rcI8&v=3.exp&libraries=geometry,drawing,places&language=brl&region=brl",
+        "",
       loadingElement: <div style={{ height: `100%` }} />,
       containerElement: <div style={{ height: `15em` }} />,
       mapElement: <div style={{ height: `100%` }} />
